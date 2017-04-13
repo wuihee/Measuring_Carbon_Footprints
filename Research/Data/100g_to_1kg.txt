@@ -1,0 +1,6 @@
+A Pint of Beer
+Electricity,Transport,Freight,Equipment,Packaging,Ingredients
+27,10,8,14,3,38
+Milk Bottle
+Methane,Carbon Dioxide,Nitrous Oxide,Plastic Bottle,Transport,Refrigeration,Supermarket
+41,20,22,4,1,8,4

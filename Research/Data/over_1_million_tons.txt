@@ -1,0 +1,12 @@
+The World Cup
+All Transport, Stadium Construction, Stadium Energy, Accomodation
+80,2,1,17
+A Country
+Household Fuel,Consumer Vehicle Fuel,Household Electricity,Consumer Air Travel,Other Consumer Transport,Motor Vehicles,Food and Drink,Hotels,Paper and Printing,Textiles and Clothes,Electronics,Construction,Water and Sewage,Defence/Education/Health and Social Services,Others
+13,10,9,8,3,5,12,4,1,2,4,6,2,11,10
+Black Carbon
+Outdoor Fires,Burning Organic Matter,Transport (Diseal),Coal
+40,25,25,10
+The World
+CO2 from Fossil Fuels,CO2 from Deforestation,Methane,Nitrous Oxide,F Gases, Aviation Impacts, Others
+55.8,17.1,14.1,7.8,1.1,1.4,2.8

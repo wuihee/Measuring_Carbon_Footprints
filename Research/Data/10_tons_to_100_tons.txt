@@ -1,0 +1,6 @@
+New Car
+Direct Emissions,Plastics and Synthetic,Rubber Products,Plastic Products,Iron and Steel,Non-Ferrous Metals,Metal Processing,Other Metals,Mechanical Power Equipment,Electrical Equipment,Electricity Production,Other
+5.4,2.7,3.1,5.6,15,17.7,10.5,3.1,4.7,5.2,6.2,20.8
+A House
+Walls,Timber,Slate Roof,Floorbeds,Solar Panels,Pipework,Other
+60,14,5,5,3,9,4

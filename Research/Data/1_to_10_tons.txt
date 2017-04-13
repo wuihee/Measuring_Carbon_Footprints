@@ -1,0 +1,6 @@
+Healthcare
+Drugs,Electricity/Fuel,Paper/Cardboard,Other
+20,33,2,45
+A Person
+Pharmaceuticals,Medicalinstruments,Electricity,Fuel,Transport,Sewage and Sanitary,Paper,Other
+20,10,13,16,4,4,2,31

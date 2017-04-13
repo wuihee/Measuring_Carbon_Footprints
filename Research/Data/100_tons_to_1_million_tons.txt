@@ -1,0 +1,6 @@
+Swimming Pool
+Grid Electricity,Customer Travel,Staff Commuting,Waste,Chemicals,Food and Shampoo,Office Supplies,Natural Gas
+28.1,20,9,5.2,1.9,1.8,0.1,33.9
+A University
+Electricity,Gas,Water and Sewage,Business Travel,Commuting,Purchases
+28,17,2,13,17,24

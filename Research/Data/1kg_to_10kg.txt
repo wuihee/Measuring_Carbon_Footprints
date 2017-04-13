@@ -1,0 +1,9 @@
+Loaf of Bread
+Ingredients,Baking,Bread Bag,Transport,Supermarket
+55,17,3,14,11
+A Quart of Gasoline
+Burning Gasoline,Extraction and Shipping,Refinery Emissions,Refinery Electricity,Others
+74,15,9,1,1
+Carton of Eggs
+Carbon Dioxide,Nitrous Oxide,Packaging,Transport,Supermarket,Methane from Farming
+41,45,5,1,4,4

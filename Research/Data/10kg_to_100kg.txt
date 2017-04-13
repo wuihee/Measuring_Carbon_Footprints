@@ -1,0 +1,6 @@
+A Pair of Shoes
+Materials,Manufacture,Transport,Shoe Boex,Others
+50,25,15,5,5
+Night in a Hotel
+Gas,Electricity,Drinks,Food,Other
+8,10,22,23,37
