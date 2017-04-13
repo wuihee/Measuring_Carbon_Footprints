@@ -1,0 +1,15 @@
+Loaf of Bread
+Ingredients,Baking,Bread Bag,Transport,Supermarket
+55,17,3,14,11
+Carton of Eggs
+Carbon Dioxide,Nitrous Oxide,Packaging,Transport,Supermarket,Methane from Farming
+41,45,5,1,4,4
+Milk Bottle
+Methane,Carbon Dioxide,Nitrous Oxide,Plastic Bottle,Transport,Refrigeration,Supermarket
+41,20,22,4,1,8,4
+Gasoline
+Burning Gasoline,Extraction and Shipping,Refinery Emissions,Refinery Electricity,Others
+74,15,9,1,1
+Hotles
+Gas,Electricity,Drinks,Food,Other
+8,10,22,23,37
